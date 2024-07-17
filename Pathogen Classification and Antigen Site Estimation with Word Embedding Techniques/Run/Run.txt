@@ -1,0 +1,4 @@
+Python 3.8 ve Jupyter yüklü bir bilgisayarda 
+projenin ilk satırındaki kütüphanelerin !pip install
+komutuyla yüklenmesi gerekir. Sonrasında program 
+direkt olarak çalışacaktır.

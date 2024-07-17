@@ -1,0 +1,5 @@
+Projenin çalıştırılması için gerekli yazılımlar:
+
+Python 3.8 indirilmelidir.
+Jupyter Notebook kurulmalıdır.
+Gensim ve Tenserflow kütüphaneleri indirilmelidir. 
